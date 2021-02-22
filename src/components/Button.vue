@@ -14,6 +14,7 @@
     methods: {
       increment() {
         this.count++
+        this.count++
       },
     },
   }
